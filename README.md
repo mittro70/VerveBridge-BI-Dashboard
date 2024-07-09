@@ -1,12 +1,12 @@
 # Amazon Sales and Service Performance Analysis
 
-This project involves analyzing Amazon sales and service data to gain insights into sales performance, customer preferences, and service efficiency. The analysis is conducted using two Excel files, and the data is visualized using Power BI.
+This project involves analyzing Amazon sales and service data to gain insights into sales performance, customer preferences, and service efficiency. The dashboard has been created using using Power BI.
 
 ## Overview
 
 The project follows these main steps:
 1. Download the datasets.
-2. Data cleaning and preparation.
+2. Data cleaning and preparation in Excel.
 3. Data analysis using pivot tables.
 4. Data visualization using Power BI.
 
