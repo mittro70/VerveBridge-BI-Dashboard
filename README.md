@@ -29,7 +29,7 @@ The project follows these main steps:
 
 3. **Create Pivot Table**
    - In `Amazon Sale Report - YT.xlsx`, create a pivot table to calculate the percentage of cancelled orders per state.
-     - Use the `ship-state` and 'Courier Status' columns in the Rows field.
+     - Use the `ship-state` and `Courier Status` columns in the Rows field.
      - Use Count of `Courier Status` in the Values field.
 
 4. **Load Data to Power BI**
